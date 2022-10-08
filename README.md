@@ -9,3 +9,4 @@
 5. Улучшение качества [ссылка](https://github.com/520911/ml/blob/main/ml_data.ipynb)
 6. Дерево решений [ссылка](https://github.com/520911/ml/blob/main/ml_dt.ipynb)
 7. Random forest, выбросы в признаках [ссылка](https://github.com/520911/ml/blob/main/ml_ft.ipynb)
+8. Ансамблирование [ссылка](https://github.com/520911/ml/blob/main/ml_ans.ipynb)
